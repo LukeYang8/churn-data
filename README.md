@@ -63,3 +63,8 @@ We train two models and evaluate them using:
 - Random Forest can be tuned (class weighting / threshold adjustment) to catch more churners.  
 - Future improvements: include more features (tenure, payment method, support tickets), try XGBoost or Gradient Boosting, tune thresholds for business objectives.  
 
+---
+
+## Business Recomendations
+- **Target High Risk Customers**: focus on retention campaigns for high risk customers 
+- **Prioritise High Churn Segments**: Month to Month and high monthly charges have high risk of churning, so focusing on retetion campaigns for this segment will greatly benefit retention.
